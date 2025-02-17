@@ -93,12 +93,19 @@ Below is a preliminary list academic papers that discuss reinforcement learning 
     *  **Link:** [https://danijar.com/project/daydreamer/](https://danijar.com/project/daydreamer/)
     *  **PDF:** [papers/day_dreamer.pdf](papers/day_dreamer.pdf)
 
-2.  **Learning the Quadruped Robot by Reinforcement Learning (RL)**
+2. **Adapting Rapid Motor Adaptation for Bipedal Robots**
+    *  **Authors:** Ashish Kumar, Zhongyu Li, Jun Zeng, Deepak Pathak, Koushil Sreenath, Jitendra Malik
+    *  **Published:** Sep, 2022
+    *  **Institutions:** University of California at Berkeley, Carnegie Mellon University
+    *  **Link:** [https://ashish-kmr.github.io/a-rma/](https://ashish-kmr.github.io/a-rma/)
+    *  **PDF:** [papers/a_rma.pdf](papers/a_rma.pdf)
+
+3.  **Learning the Quadruped Robot by Reinforcement Learning (RL)**
     *  **Authors:** A. A. Issa, A. A. Aldair
     *  **Published:** 2022
     *  **PDF:** [papers/lq_rl.pdf](papers/lq_rl.pdf)
 
-3.  **Learning Quadrupedal Locomotion over Challenging Terrain**
+4.  **Learning Quadrupedal Locomotion over Challenging Terrain**
     *  **Authors:** Joonho Lee, Jemin Hwangbo, Lorenz Wellhausen, Vladlen Koltun, Marco Hutter
     *  **Published:** Oct, 2020
     *  **Institutions:** ETH Zurich, KAIST, Intel
