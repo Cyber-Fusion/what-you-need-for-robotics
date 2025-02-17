@@ -18,6 +18,9 @@ This repository serves as a collection of resources for robotics research and ed
   An introduction to methods and techniques for controlling robotic motion.
   - **[Reinforcement Learning](./locomotion-control/reinforcement-learning/)**  
     An overview of reinforcement learning applied to locomotion control in robotics.
+- **[ROS2]**
+  Resources for learning and working with the Robot Operating System 2 (ROS 2).
+  (coming soon)
 
 ## Contributing
 
